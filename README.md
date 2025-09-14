@@ -14,11 +14,12 @@ MIL-BASTER is a comprehensive security framework for Mobile Ad-hoc Networks (MAN
 Key Features:
 Real-time Anomaly Detection: Utilizes a sliding window analysis to immediately identify and flag anomalous behavior, such as dropped packets or unauthorized data manipulation.
 
-[Detection](https://media1.tenor.com/m/EaCAjN3sOLgAAAAC/ascii-saas-security.gif)
+[Detection](https://github.com/user-attachments/assets/c53140aa-2a55-4ad5-840d-b7edb7737b29)
+
 
 Dynamic Trust Scoring: Employs a reputation-based system where each node's trust score is dynamically adjusted based on its network behavior.
 
- ![Trust]((https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif))
+ ![Trust](https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif)
 
 Successful packet transmission: +1 point
 
